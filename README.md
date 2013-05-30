@@ -1,4 +1,4 @@
-tbseriabilidade
+tb-BD-seriabilidade
 ===============
 
 Trabalho de BD Seriabilidade
